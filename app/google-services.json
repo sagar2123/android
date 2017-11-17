@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "303966226280",
+    "firebase_url": "https://seventh-vigil-186308.firebaseio.com",
+    "project_id": "seventh-vigil-186308",
+    "storage_bucket": "seventh-vigil-186308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303966226280:android:1580fa9ebd89a3ec",
+        "android_client_info": {
+          "package_name": "com.example.sagarb.googlesignindemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303966226280-btpbgtn812clol26kdi0m44ccjfh3fsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sagarb.googlesignindemo",
+            "certificate_hash": "9588686d659027fd40321880437219261f9b1b3f"
+          }
+        },
+        {
+          "client_id": "303966226280-gm0p0b5hasaoo1cpsj09rimmrn9m2nno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg1u1Ms8wLHtfQzqmBP6EpRnjG_W5z_UY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303966226280-gm0p0b5hasaoo1cpsj09rimmrn9m2nno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
